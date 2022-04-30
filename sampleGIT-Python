@@ -1,1 +1,6 @@
-Print ("I'm hungry kya")
+Print ("I'm hungry kya?")
+hungry=input(Are you hungry?")
+If hungry=="yes"
+ print("eat samosa and tea")
+else:
+ print("you need some drink, GRAB it")
